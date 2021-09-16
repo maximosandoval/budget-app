@@ -7,7 +7,7 @@ The budget app or budget tracker allows the end user to add budget line items in
 
 Once this information is entered offline the budget app will automatically populate the total once an online connection is established.
 
-- [Click here to view deployed HEROKU app](https://budget-appl.herokuapp.com/)
+- [Click here to view deployed HEROKU app](https://git.heroku.com/budget-appl.git)
 - [Install](https://github.com/maximosandoval/budget-app#install)
 
 ## User Story
