@@ -42,4 +42,4 @@ You will also need
 
 ## View
 
-[screencap-1.png]
+[Screen capture](https://github.com/maximosandoval/budget-app/blob/main/images/screencap-1.png)
