@@ -10,7 +10,6 @@ Once this information is entered offline the budget app will automatically popul
 View deployed Heroku app here
 
 - [Installation](https://github.com/maximosandoval/budget-app#install)
-- [Usage](https://github.com/maximosandoval/budget-app#usage)
 
 ## User Story
 
@@ -43,4 +42,4 @@ You will also need
 
 ## View
 
-[Screencap](https://github.com/maximosandoval/budget-app/images/screencap-1.png)
+[screencap-1.png]
