@@ -1,6 +1,3 @@
-<!-- Insert Images
-![Inset Image Name and it will auto place in readme file](Insert the github link starting with https://github...) -->
-
 # Budget App
 
 The budget app or budget tracker allows the end user to add budget line items in an online or offline state. The budget tracker allows the end user to -
@@ -46,4 +43,5 @@ You will also need
 
 ## View
 
-
+<!-- Insert Images
+![Inset Image Name and it will auto place in readme file](Insert the github link starting with https://github...) -->
