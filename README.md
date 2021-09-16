@@ -9,7 +9,7 @@ Once this information is entered offline the budget app will automatically popul
 
 View deployed Heroku app here
 
-- [Installation](https://github.com/maximosandoval/budget-app#install)
+- [Install](https://github.com/maximosandoval/budget-app#install)
 
 ## User Story
 
