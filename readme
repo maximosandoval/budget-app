@@ -1,97 +1,49 @@
 <!-- Insert Images
 ![Inset Image Name and it will auto place in readme file](Insert the github link starting with https://github...) -->
 
-# Project Title
+# Budget App
 
-One Paragraph of the project description
+The budget app or budget tracker allows the end user to add budget line items in an online or offline state. The budget tracker allows the end user to -
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+- Add expenses
+- Add deposits
 
-## Getting Started
+Once this information is entered offline the budget app will automatically populate the total once an online connection is established.
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+View deployed Heroku app here
 
-### Prerequisites
+- [Installation] (https://www.example.com)
+- [Usage] (https://www.example.com)
 
-Requirements for the software and other tools to build, test and push
+## User Story
 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+The end user will be able to track their withdrawals and deposits with or without an internet connection. Once a connection is established the total or account balance will be updated.
 
-### Installing
+## Install
 
-A step by step series of examples that tell you how to get a development
-environment running
+Clone the project utilizong the following line of code in your terminal to install all the necessary packages:
 
-Say what the step will be
+    npm i
 
-    Give the example
+You will also need
 
-And repeat
+    npm install express
 
-    until finished
+You will also need
 
-End with an example of getting some data out of the system or using it
-for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
-## Deployment
-
-Add additional notes to deploy this on a live system
+    npm install mongoose
 
 ## Built With
 
-- [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-  for the Code of Conduct
-- [Creative Commons](https://creativecommons.org/) - Used to choose
-  the license
+- HTML
+- CSS
+- JS
+- Node.js
+- Express
+- Mongoose
+- Morgan
+- Lite Server
 
-## Contributing
+## View
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
-
-## Authors
-
-- **Billie Thompson** - _Provided README Template_ -
-  [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
-
-## License
-
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
-
-## Acknowledgments
-
-- Hat tip to anyone whose code is used
-- Inspiration
-- etc
